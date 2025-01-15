@@ -1,19 +1,15 @@
 ## Hi there 👋
 
-<!--
-**pchinovsky/pchinovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex; justify-content: center; align-items: center; gap: 50px; width: 100%; flex-wrap: nowrap;">
+  <a href="https://github.com/pchinovsky/github-readme-stats" tabindex="-1" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api?username=pchinovsky&show_icons=true&theme=transparent&custom_title=Peter's%20GitHub%20Stats&hide=contribs" alt="Peter's GitHub Stats" style="max-width: 45%; height: auto;">
+  </a>
+  <a href="https://github.com/pchinovsky" tabindex="-1" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pchinovsky&layout=compact&theme=transparent" alt="Most Used Languages" style="width: 31%; height: auto;">
+  </a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-| [![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pchinovsky&show_icons=true&theme=transparent&custom_title=Peter's%20GitHub%20Stats&hide=contribs)](https://github.com/pchinovsky/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-|---|---|
+
+
