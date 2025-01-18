@@ -2,7 +2,7 @@
 👨‍🚀 Exploring Frontend Development with SoftUni <br>
 🏅 Top 3 Angular project for the course<br>
 💣 Combining Visual Art background with Web Dev<br>
-🔤 Interested in languages - programming, foreign, iconographic and non-verbal
+🔤 Interested in languages - programming, foreign, iconographic and non-verbal <br>
 🎱 Designing streamlined UI<br>
 
 
